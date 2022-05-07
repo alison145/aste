@@ -14,7 +14,6 @@ http://pfsv.io:80/07720253/51853/006
 #EXTINF:-1 tvg-logo="" group-title="",WOOHOO HD
 http://pfsv.io:80/07720253/51853/007
 #EXTINF:-1 tvg-logo="" group-title="",MTV NOW
-http://pfsv.io:80/07720253/51853/008
 #EXTINF:-1 tvg-logo="" group-title="",MTV SD
 http://pfsv.io:80/07720253/51853/009
 #EXTINF:-1 tvg-logo="" group-title="",MULTISHOW HD
@@ -57,26 +56,16 @@ http://pfsv.io:80/07720253/51853/027
 http://pfsv.io:80/07720253/51853/028
 #EXTINF:-1 tvg-logo="" group-title="",RECORD SD
 http://pfsv.io:80/07720253/51853/029
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/030
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/031
 #EXTINF:-1 tvg-logo="" group-title="",FUTURA KIDS
 http://pfsv.io:80/07720253/51853/032
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/033
 #EXTINF:-1 tvg-logo="" group-title="",FUTURA SD
 http://pfsv.io:80/07720253/51853/034
 #EXTINF:-1 tvg-logo="" group-title="",RECORD SD
 http://pfsv.io:80/07720253/51853/035
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/036
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL HD
 http://pfsv.io:80/07720253/51853/037
 #EXTINF:-1 tvg-logo="" group-title="",SBT SD
 http://pfsv.io:80/07720253/51853/038
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/039
 #EXTINF:-1 tvg-logo="" group-title="",TV SENADO
 http://pfsv.io:80/07720253/51853/040
 #EXTINF:-1 tvg-logo="" group-title="",TV JUSTICA
@@ -85,15 +74,13 @@ http://pfsv.io:80/07720253/51853/041
 http://pfsv.io:80/07720253/51853/042
 #EXTINF:-1 tvg-logo="" group-title="",E TV
 http://pfsv.io:80/07720253/51853/043
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/044
 #EXTINF:-1 tvg-logo="" group-title="",RECORD
 http://pfsv.io:80/07720253/51853/045
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SBT
 http://pfsv.io:80/07720253/51853/046
 #EXTINF:-1 tvg-logo="" group-title="",TV BIBLICO
 http://pfsv.io:80/07720253/51853/047
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL 
 http://pfsv.io:80/07720253/51853/048
 #EXTINF:-1 tvg-logo="" group-title="",MIL E UMA NOITES
 http://pfsv.io:80/07720253/51853/049
@@ -105,7 +92,7 @@ http://pfsv.io:80/07720253/51853/051
 http://pfsv.io:80/07720253/51853/052
 #EXTINF:-1 tvg-logo="" group-title="",RECORD
 http://pfsv.io:80/07720253/51853/053
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL 
 http://pfsv.io:80/07720253/51853/054
 #EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
 http://pfsv.io:80/07720253/51853/055
@@ -115,17 +102,15 @@ http://pfsv.io:80/07720253/51853/056
 http://pfsv.io:80/07720253/51853/057
 #EXTINF:-1 tvg-logo="" group-title="",FUTURA
 http://pfsv.io:80/07720253/51853/058
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",RECORD 
 http://pfsv.io:80/07720253/51853/059
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",RECORD 
 http://pfsv.io:80/07720253/51853/060
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/061
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",RECORD 
 http://pfsv.io:80/07720253/51853/062
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",RECORD 
 http://pfsv.io:80/07720253/51853/063
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FUTURA 
 http://pfsv.io:80/07720253/51853/064
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
 http://pfsv.io:80/07720253/51853/065
@@ -139,7 +124,7 @@ http://pfsv.io:80/07720253/51853/068
 http://pfsv.io:80/07720253/51853/069
 #EXTINF:-1 tvg-logo="" group-title="",SBT
 http://pfsv.io:80/07720253/51853/070
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SBT 
 http://pfsv.io:80/07720253/51853/071
 #EXTINF:-1 tvg-logo="" group-title="",TV SENADO
 http://pfsv.io:80/07720253/51853/072
@@ -149,16 +134,10 @@ http://pfsv.io:80/07720253/51853/073
 http://pfsv.io:80/07720253/51853/074
 #EXTINF:-1 tvg-logo="" group-title="",E TV
 http://pfsv.io:80/07720253/51853/075
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/076
 #EXTINF:-1 tvg-logo="" group-title="",RECORD
 http://pfsv.io:80/07720253/51853/077
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/078
 #EXTINF:-1 tvg-logo="" group-title="",RECORD INTERIOR
 http://pfsv.io:80/07720253/51853/079
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/080
 #EXTINF:-1 tvg-logo="" group-title="",AGRO TV
 http://pfsv.io:80/07720253/51853/081
 #EXTINF:-1 tvg-logo="" group-title="",G TV
@@ -169,8 +148,6 @@ http://pfsv.io:80/07720253/51853/083
 http://pfsv.io:80/07720253/51853/084
 #EXTINF:-1 tvg-logo="" group-title="",RECORD
 http://pfsv.io:80/07720253/51853/085
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/086
 #EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
 http://pfsv.io:80/07720253/51853/087
 #EXTINF:-1 tvg-logo="" group-title="",MIL E UMA NOITES
@@ -179,18 +156,6 @@ http://pfsv.io:80/07720253/51853/088
 http://pfsv.io:80/07720253/51853/089
 #EXTINF:-1 tvg-logo="" group-title="",FUTURA
 http://pfsv.io:80/07720253/51853/090
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/091
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/092
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/093
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/094
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/095
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/096
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
 http://pfsv.io:80/07720253/51853/097
 #EXTINF:-1 tvg-logo="" group-title="",CURTA!
@@ -245,7 +210,7 @@ http://pfsv.io:80/07720253/51853/121
 http://pfsv.io:80/07720253/51853/122
 #EXTINF:-1 tvg-logo="" group-title="",VIVA SD
 http://pfsv.io:80/07720253/51853/123
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",POLISHOP
 http://pfsv.io:80/07720253/51853/124
 #EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
 http://pfsv.io:80/07720253/51853/125
@@ -255,8 +220,6 @@ http://pfsv.io:80/07720253/51853/126
 http://pfsv.io:80/07720253/51853/127
 #EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
 http://pfsv.io:80/07720253/51853/128
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/129
 #EXTINF:-1 tvg-logo="" group-title="",NICK JR 
 http://pfsv.io:80/07720253/51853/130
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON 
@@ -271,8 +234,6 @@ http://pfsv.io:80/07720253/51853/134
 http://pfsv.io:80/07720253/51853/135
 #EXTINF:-1 tvg-logo="" group-title="",BOOB
 http://pfsv.io:80/07720253/51853/136
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/137
 #EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
 http://pfsv.io:80/07720253/51853/138
 #EXTINF:-1 tvg-logo="" group-title="",CARTOON NETWORK 
@@ -283,16 +244,12 @@ http://pfsv.io:80/07720253/51853/140
 http://pfsv.io:80/07720253/51853/141
 #EXTINF:-1 tvg-logo="" group-title="",BLOOB 
 http://pfsv.io:80/07720253/51853/142
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/143
 #EXTINF:-1 tvg-logo="" group-title="",NICK JR 
 http://pfsv.io:80/07720253/51853/144
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON 
 http://pfsv.io:80/07720253/51853/145
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://pfsv.io:80/07720253/51853/146
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/147
 #EXTINF:-1 tvg-logo="" group-title="",TV RA TIM BUM 
 http://pfsv.io:80/07720253/51853/148
 #EXTINF:-1 tvg-logo="" group-title="",BABY LY 
@@ -307,12 +264,8 @@ http://pfsv.io:80/07720253/51853/152
 http://pfsv.io:80/07720253/51853/153
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://pfsv.io:80/07720253/51853/154
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/155
 #EXTINF:-1 tvg-logo="" group-title="",BLOOB 
 http://pfsv.io:80/07720253/51853/156
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/157
 #EXTINF:-1 tvg-logo="" group-title="",NICK JR 
 http://pfsv.io:80/07720253/51853/158
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON 
@@ -323,47 +276,47 @@ http://pfsv.io:80/07720253/51853/160
 http://pfsv.io:80/07720253/51853/161
 #EXTINF:-1 tvg-logo="" group-title="",TV Y
 http://pfsv.io:80/07720253/51853/162
-#EXTINF:-1 tvg-logo="" group-title="",BABNKIDS.TV
-http://pfsv.io:80/07720253/51853/163
 #EXTINF:-1 tvg-logo="" group-title="",ZOOMOO 
+http://pfsv.io:80/07720253/51853/163
+#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET
 http://pfsv.io:80/07720253/51853/164
-#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="" group-title="",ARTE 
 http://pfsv.io:80/07720253/51853/165
-#EXTINF:-1 tvg-logo="" group-title="",ARTE 
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL 
 http://pfsv.io:80/07720253/51853/166
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-logo="" group-title="",HGTV 
 http://pfsv.io:80/07720253/51853/167
-#EXTINF:-1 tvg-logo="" group-title="",HGTV 
-http://pfsv.io:80/07720253/51853/168
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H 
-http://pfsv.io:80/07720253/51853/169
+http://pfsv.io:80/07720253/51853/168
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
-http://pfsv.io:80/07720253/51853/170
+http://pfsv.io:80/07720253/51853/169
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER 
-http://pfsv.io:80/07720253/51853/171
+http://pfsv.io:80/07720253/51853/170
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO 
-http://pfsv.io:80/07720253/51853/172
+http://pfsv.io:80/07720253/51853/171
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD 
-http://pfsv.io:80/07720253/51853/173
+http://pfsv.io:80/07720253/51853/172
 #EXTINF:-1 tvg-logo="" group-title="",HISTÓRY 2
-http://pfsv.io:80/07720253/51853/174
+http://pfsv.io:80/07720253/51853/173
 #EXTINF:-1 tvg-logo="" group-title="",HISTÓRY 
-http://pfsv.io:80/07720253/51853/175
+http://pfsv.io:80/07720253/51853/174
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY ID 
-http://pfsv.io:80/07720253/51853/176
+http://pfsv.io:80/07720253/51853/175
 #EXTINF:-1 tvg-logo="" group-title="",GEOGRAPHIC 
+http://pfsv.io:80/07720253/51853/176
+#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/177
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/178
-#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN
+#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET FINAL
 http://pfsv.io:80/07720253/51853/179
-#EXTINF:-1 tvg-logo="" group-title="",ANIMAL PLANET 
-http://pfsv.io:80/07720253/51853/180
 #EXTINF:-1 tvg-logo="" group-title="",ARTE 
-http://pfsv.io:80/07720253/51853/181
+http://pfsv.io:80/07720253/51853/180
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY CHANNEL 
-http://pfsv.io:80/07720253/51853/182
+http://pfsv.io:80/07720253/51853/181
 #EXTINF:-1 tvg-logo="" group-title="",HGTV 
+http://pfsv.io:80/07720253/51853/182
+#EXTINF:-1 tvg-logo="" group-title="",HGTV FINAL
 http://pfsv.io:80/07720253/51853/183
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H 
 http://pfsv.io:80/07720253/51853/184
@@ -383,7 +336,7 @@ http://pfsv.io:80/07720253/51853/190
 http://pfsv.io:80/07720253/51853/191
 #EXTINF:-1 tvg-logo="" group-title="",GEOGRAPHIC 
 http://pfsv.io:80/07720253/51853/192
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/193
 #EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/194
@@ -413,13 +366,13 @@ http://pfsv.io:80/07720253/51853/205
 http://pfsv.io:80/07720253/51853/206
 #EXTINF:-1 tvg-logo="" group-title="",GEOGRAPHIC 
 http://pfsv.io:80/07720253/51853/207
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/208
 #EXTINF:-1 tvg-logo="" group-title="",SMITHSONIAN 
 http://pfsv.io:80/07720253/51853/209
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://pfsv.io:80/07720253/51853/210
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
 http://pfsv.io:80/07720253/51853/211
 #EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
 http://pfsv.io:80/07720253/51853/212
@@ -439,233 +392,209 @@ http://pfsv.io:80/07720253/51853/218
 http://pfsv.io:80/07720253/51853/219
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION 
 http://pfsv.io:80/07720253/51853/220
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
 http://pfsv.io:80/07720253/51853/221
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN HD
 http://pfsv.io:80/07720253/51853/222
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA
 http://pfsv.io:80/07720253/51853/223
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA HD
 http://pfsv.io:80/07720253/51853/224
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
 http://pfsv.io:80/07720253/51853/225
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM PT
 http://pfsv.io:80/07720253/51853/226
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
 http://pfsv.io:80/07720253/51853/227
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
 http://pfsv.io:80/07720253/51853/228
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT
 http://pfsv.io:80/07720253/51853/229
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT
 http://pfsv.io:80/07720253/51853/230
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FX
 http://pfsv.io:80/07720253/51853/231
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FX
 http://pfsv.io:80/07720253/51853/232
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP 
 http://pfsv.io:80/07720253/51853/233
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP
 http://pfsv.io:80/07720253/51853/234
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX PT
 http://pfsv.io:80/07720253/51853/235
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX ING
 http://pfsv.io:80/07720253/51853/236
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPACE PT
 http://pfsv.io:80/07720253/51853/237
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPACE
 http://pfsv.io:80/07720253/51853/238
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
 http://pfsv.io:80/07720253/51853/239
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
 http://pfsv.io:80/07720253/51853/240
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS 
 http://pfsv.io:80/07720253/51853/241
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS 
 http://pfsv.io:80/07720253/51853/242
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SONY CHANNEL 
 http://pfsv.io:80/07720253/51853/243
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/244
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT 
 http://pfsv.io:80/07720253/51853/245
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT 
 http://pfsv.io:80/07720253/51853/246
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS 
 http://pfsv.io:80/07720253/51853/247
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT EXTRA
 http://pfsv.io:80/07720253/51853/248
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE 
 http://pfsv.io:80/07720253/51853/249
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 1
 http://pfsv.io:80/07720253/51853/250
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 2
 http://pfsv.io:80/07720253/51853/251
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FOX SPORT 2
 http://pfsv.io:80/07720253/51853/252
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",OFF 
 http://pfsv.io:80/07720253/51853/253
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",CONMEBOL TV 
 http://pfsv.io:80/07720253/51853/254
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 4
 http://pfsv.io:80/07720253/51853/255
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 5
 http://pfsv.io:80/07720253/51853/256
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE 
 http://pfsv.io:80/07720253/51853/257
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 2
 http://pfsv.io:80/07720253/51853/258
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT SPORT 
 http://pfsv.io:80/07720253/51853/259
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT EXTRA 
 http://pfsv.io:80/07720253/51853/260
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 6
 http://pfsv.io:80/07720253/51853/261
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 4
 http://pfsv.io:80/07720253/51853/262
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FOX SPORT 2
 http://pfsv.io:80/07720253/51853/263
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",OFF 
 http://pfsv.io:80/07720253/51853/264
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS 
 http://pfsv.io:80/07720253/51853/265
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE 
 http://pfsv.io:80/07720253/51853/266
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 2
 http://pfsv.io:80/07720253/51853/267
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 3
 http://pfsv.io:80/07720253/51853/268
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 
 http://pfsv.io:80/07720253/51853/269
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT EXTRA 
 http://pfsv.io:80/07720253/51853/270
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPORT 4
 http://pfsv.io:80/07720253/51853/271
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FOX SPORT 2
 http://pfsv.io:80/07720253/51853/272
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",OFF 
 http://pfsv.io:80/07720253/51853/273
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SONY CHANNEL 
 http://pfsv.io:80/07720253/51853/274
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX 
 http://pfsv.io:80/07720253/51853/275
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/276
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/277
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/278
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FX
 http://pfsv.io:80/07720253/51853/279
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME 
 http://pfsv.io:80/07720253/51853/280
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 http://pfsv.io:80/07720253/51853/281
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 
 http://pfsv.io:80/07720253/51853/282
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
 http://pfsv.io:80/07720253/51853/283
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SYFY 
 http://pfsv.io:80/07720253/51853/284
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TBS
 http://pfsv.io:80/07720253/51853/285
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TLC 
 http://pfsv.io:80/07720253/51853/286
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT 
 http://pfsv.io:80/07720253/51853/287
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE 
 http://pfsv.io:80/07720253/51853/288
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV 
 http://pfsv.io:80/07720253/51853/289
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
 http://pfsv.io:80/07720253/51853/290
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/291
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
 http://pfsv.io:80/07720253/51853/292
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",A&E
 http://pfsv.io:80/07720253/51853/293
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",A&E
 http://pfsv.io:80/07720253/51853/294
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",AXN 
 http://pfsv.io:80/07720253/51853/295
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",AXN 
 http://pfsv.io:80/07720253/51853/296
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS 
 http://pfsv.io:80/07720253/51853/297
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",CANAL BRASIL 
 http://pfsv.io:80/07720253/51853/298
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",A&E
 http://pfsv.io:80/07720253/51853/299
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",AMC 
 http://pfsv.io:80/07720253/51853/300
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",AXN 
 http://pfsv.io:80/07720253/51853/301
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SONY CHANNEL 
 http://pfsv.io:80/07720253/51853/302
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX 
 http://pfsv.io:80/07720253/51853/303
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
 http://pfsv.io:80/07720253/51853/304
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/305
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/306
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/307
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FX 
 http://pfsv.io:80/07720253/51853/308
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME 
 http://pfsv.io:80/07720253/51853/309
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 http://pfsv.io:80/07720253/51853/310
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT 
 http://pfsv.io:80/07720253/51853/311
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SYFY 
 http://pfsv.io:80/07720253/51853/312
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SPACE 
 http://pfsv.io:80/07720253/51853/313
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TLC
 http://pfsv.io:80/07720253/51853/314
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT 
 http://pfsv.io:80/07720253/51853/315
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE 
 http://pfsv.io:80/07720253/51853/316
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
 http://pfsv.io:80/07720253/51853/317
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/318
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",WARNER BROS 
 http://pfsv.io:80/07720253/51853/319
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
 http://pfsv.io:80/07720253/51853/320
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TBS 
 http://pfsv.io:80/07720253/51853/321
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TBS 
 http://pfsv.io:80/07720253/51853/322
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV 
 http://pfsv.io:80/07720253/51853/323
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",A&E
 http://pfsv.io:80/07720253/51853/324
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",ZONI LIVE
 http://pfsv.io:80/07720253/51853/325
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",AXN 
 http://pfsv.io:80/07720253/51853/326
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",SONY CHANNEL 
 http://pfsv.io:80/07720253/51853/327
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX 
 http://pfsv.io:80/07720253/51853/328
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
 http://pfsv.io:80/07720253/51853/329
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/330
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/331
-#EXTINF:-1 tvg-logo="" group-title="",
-http://pfsv.io:80/07720253/51853/332
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",FX 
 http://pfsv.io:80/07720253/51853/333
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME SD
 http://pfsv.io:80/07720253/51853/334
 #EXTINF:-1 tvg-logo="" group-title="",
 http://pfsv.io:80/07720253/51853/335
@@ -899,3 +828,205 @@ http://pfsv.io:80/07720253/51853/448
 http://pfsv.io:80/07720253/51853/449
 #EXTINF:-1 tvg-logo="" group-title="",
 http://pfsv.io:80/07720253/51853/450
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/451
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/452
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/453
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/454
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/455
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/456
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/457
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/458
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/459
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/460
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/461
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/462
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/463
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/464
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/465
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/466
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/467
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/468
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/469
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/470
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/471
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/472
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/473
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/474
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/475
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/476
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/477
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/478
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/479
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/480
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/481
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/482
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/483
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/484
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/485
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/486
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/487
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/488
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/489
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/490
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/491
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/492
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/493
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/494
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/495
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/496
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/497
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/498
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/499
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/500
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/501
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/502
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/503
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/504
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/505
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/506
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/507
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/508
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/509
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/510
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/511
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/512
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/513
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/514
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/515
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/516
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/517
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/518
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/519
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/520
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/521
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/522
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/523
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/524
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/525
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/526
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/527
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/528
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/529
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/530
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/531
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/532
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/533
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/534
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/535
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/536
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/537
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/538
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/539
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/540
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/541
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/542
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/543
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/544
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/545
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/546
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/547
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/548
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/549
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/550
+#EXTINF:-1 tvg-logo="" group-title="",
+http://pfsv.io:80/07720253/51853/551
